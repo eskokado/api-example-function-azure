@@ -3,7 +3,7 @@
 Construindo sexy APIs utilizando arquitetura serverless. 
 
 ## Pré-requisito
-> nodejs - não pode ultrapassar a versão 14
+> nodejs - não pode ser superior 14
 
 > Instalar - Work with Azure Functions Core Tools 
 
@@ -11,7 +11,9 @@ Construindo sexy APIs utilizando arquitetura serverless.
 
 
 [clone o projeto exemplo do github](https://github.com/eskokado/api-example-function-azure) 
-entre no diretório do projeto exemplo e execute o seguinte comando:
+
+Entre no diretório do projeto exemplo e execute o seguinte comando:
+
 ```
 npm i
 ```
